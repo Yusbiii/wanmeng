@@ -1,0 +1,6 @@
+{
+  "name": "IoT Smart Controller",
+  "description": "Tempat kontrol 4 relay dan monitoring sensor DHT22 (Suhu & Kelembapan) dengan pendeteksi suara (Voice Command).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
